@@ -19,6 +19,8 @@ There are a few neighborhoods that are definitely the same thing (Upper West Sid
 
 ![Imgur](https://i.imgur.com/JXvNpSy.png)
 
+![Imgur](https://i.imgur.com/9pbs6uU.png)
+
 There's a ton of neighborhoods with one, two, or three listings, but I bet that's a side effect of the overlapping neighborhoods. Lower Manhattan has 36 listings that at the lowest level of aggregation are probably in the Lower East Side or East Village somewhere. 
 
 ![Imgur](https://i.imgur.com/iv9zdjD.png)
@@ -28,9 +30,9 @@ Looking at the box and whisker plot of prices in each neighborhood, I think it's
 Since I'm using the Roomi neighborhood classifications, and obviously nobody does demographics by neighborhoods, I pulled neighborhood shapefiles from Zillow (at some point in the past I converted these to geojsons and I don't recall how I did it, so I'm just uploading the relevant geojsons) to visualize the Roomi neighborhoods and I compared that to zipcode demographics. 
 
 ![https://www.zillow.com/howto/api/neighborhood-boundaries.htm](https://www.zillowstatic.com/vstatic/b20c067/static/logos/Zillow_Logo_HoodsProvided_RightAligned.gif)
-https://www.zillow.com/howto/api/neighborhood-boundaries.htm
+https://www.zillow.com/howto/api/neighborhood-boundaries.html
 
-I'm comparing total population, renter population, and population within the ages of 21-35 against number of Roomi listings and median income per household against Roomi median prices. While this neighborhood to zipcode comparison is obviously not perfect, it gives us an idea of what correlations we should expect to see. I visualized everything in Uber Kepler because I'm a blatant shill for them and every time I do something cool on it, Travis Venmo's me $5.  
+I'm comparing total population, renter population, and population within the ages of 21-35 against number of Roomi listings and median income per household against Roomi median prices. While this neighborhood to zipcode comparison is obviously not perfect, it gives us an idea of what correlations we should expect to see. I visualized everything in Uber Kepler because I'm a blatant shill for them and every time I do something cool on it, Travis Venmo's me $5. (I kid, but if you're reading this...) 
 
 Next Steps:
 
@@ -38,23 +40,24 @@ I've created a list of questions that could be investigated using Roomi's data a
 
 Marketing/Sales
 
-1.What demographics are the most likely to use Roomi, both to find a roommate and to find a room, and how can that information be used to tailor future expansion and marketing efforts?
+1. What demographics are the most likely to use Roomi, both to find a roommate and to find a room, and how can that information be used to tailor future expansion and marketing efforts?
 
-   Census data is notoriously imprecise when it comes to capturing transient populations, which seems like the primary demographic for Roomi. What other sources of data can be used to model this?⋅⋅⋅
+2. Census data is notoriously imprecise when it comes to capturing transient populations, which seems like the primary demographic for Roomi. What other sources of data can be used to model this?
 
 Product
 
-Can key words within the listing and outside information predict how long a given listing will remain on the market?
-  Can this prediction then be used to help both those looking for a roommate and those looking for a room? Examples: "At this price point, your listing has an 85% chance of being leased within the next two weeks. Decrease your price by $50 a month to increase the chance to 93%!", "Based on the number of people who have seen this listing, there is an 85% chance of being taken in the next two weeks, so act fast! This listing is cheaper than 64% of listings with comparable features such as: private bathroom, walk-in closet, and full windows!"
+1. Can key words within the listing and outside information predict how long a given listing will remain on the market?
+
+2. Can this prediction then be used to help both those looking for a roommate and those looking for a room? Examples: "At this price point, your listing has an 85% chance of being leased within the next two weeks. Decrease your price by $50 a month to increase the chance to 93%!", "Based on the number of people who have seen this listing, there is an 85% chance of being taken in the next two weeks, so act fast! This listing is cheaper than 64% of listings with comparable features such as: private bathroom, walk-in closet, and full windows!"
   
-What are the features that cause increased traffic to a listing, both internally and from outside sources? Do badges help?
+3. What are the features that cause increased traffic to a listing, both internally and from outside sources? Do the little badges help?
 
-Is having overlapping neighborhoods a positive or a negative?
-  Do more segmented neighborhoods increase or decrease views on listings within them?
+4. Is having overlapping neighborhoods a positive or a negative? Do more segmented neighborhoods increase or decrease views on listings within them? Eg, will people clicking on 'Lower Manhattan' be exposed to listings that they wouldn't have seen if they had selected 'Lower East Side' and will it make them more likely to convert?
 
-How can we easily distinguish listings that are for a full apartment instead of a room and therefore drive the average price up?
+5. How can we easily distinguish listings that are for a full apartment instead of a room and are driving the average price up?
 
 Finance
 
-How can Roomi maximize its revenue and listing KPIs? What is the pricing model that optimizes number of listings, profit per listing, and customer lifetime value?
-  At what point does Roomi want to shift from market share acquisition to profitability? What are the metrics that would predict this tipping point?
+1. How can Roomi maximize its revenue and listing KPIs? What is the pricing model that optimizes number of listings, profit per listing, and customer lifetime value?
+
+2. At what point does Roomi want to shift from market share acquisition to profitability? What are the metrics that would predict this tipping point?
