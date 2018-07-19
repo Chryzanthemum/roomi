@@ -32,7 +32,22 @@ Since I'm using the Roomi neighborhood classifications, and obviously nobody doe
 ![https://www.zillow.com/howto/api/neighborhood-boundaries.htm](https://www.zillowstatic.com/vstatic/b20c067/static/logos/Zillow_Logo_HoodsProvided_RightAligned.gif)
 https://www.zillow.com/howto/api/neighborhood-boundaries.html
 
-I'm comparing total population, renter population, and population within the ages of 21-35 against number of Roomi listings and median income per household against Roomi median prices. While this neighborhood to zipcode comparison is obviously not perfect, it gives us an idea of what correlations we should expect to see. I visualized everything in Uber Kepler because I'm a blatant shill for them and every time I do something cool on it, Travis Venmo's me $5. (I kid, but if you're reading this...) 
+Now let's get some pretty pictures in there. The following visualizations were all made with Uber Kepler.
+
+![Imgur](https://i.imgur.com/kQwgKmO.jpg)
+
+This is what's left after I matched Roomi neighborhoods with Zillow neighborhoods. You can see from the vast swaths of turquoise that these don't match up fantastically, eg there are lots of areas that appear without listings even though they definitely have some. The color corresponds with the mean listing price while the height is the number of listings. Keep in mind these sample sizes when looking at the rest of the comparisons - Lower East Side for instance has a sample size of 1 because I tossed out everything Roomi labeled 'Lower Manhattan'. 
+
+I'm comparing total population, renter population, and population within the ages of 21-35 against number of Roomi listings and median income per household against Roomi median prices. While this neighborhood to zipcode comparison is obviously not perfect, it gives us an idea of what correlations we should expect to see. If a gun was pointed to my head, and I had to build a model to predict factors against these neighborhoods, I'd pull census information for the most granular level available (census tracts), find the percentage of each census tract in each neighborhood, and build neighborhood demographics based off that, but thankfully this is just for fun and I can stop here. 
+
+Mean price of listing vs median income - humorously enough, these look like they're almost inverse of each other. One hypothesis is that in wealthier neighborhoods, there are more room shares as opposed to traditional sublets, to make rent work.
+
+![Imgur](https://i.imgur.com/l6K2JZS.jpg)
+
+Number of listings vs percentage of population between ages 20-29, population density, and number of renters respectively - as you might expect, number of renters predicts number of listings better than the others, but there are interesting caveats. Some of the densest areas 
+
+![Imgur](https://i.imgur.com/Up0ysmu.png)
+
 
 Next Steps:
 
