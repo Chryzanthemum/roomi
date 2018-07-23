@@ -5,7 +5,7 @@ A data scrape and exploratory data analysis of Roomi's listings, with follow up 
 
 I scraped the Roomi website for the listings in each city around July 12th, 2018. I went to the 'Search Listings' page and iterated over each region and every page of listings. I took the city, neighborhood, and price (leaving the names, faces, and ages of the listers and exact locations of the listings because it felt weird to have those. With those I could have done a deeper dive into demographics of the people subletting their apartments and a more precise mapping of listing prices to neighborhood demographics.) of each listing and constructed this dataset. I then removed London, Toronto, and Vancouver from the dataset because I'm using US census numbers.
 
-The dataset can be found here: 
+The dataset can be found here: https://github.com/Chryzanthemum/roomi/blob/master/datasets/roomineighborhoods.csv
 
 **EDA**:
 
@@ -27,12 +27,12 @@ There's a ton of neighborhoods with one, two, or three listings, but I bet that'
 
 Looking at the box and whisker plot of prices in each neighborhood, I think it's clear that some of the neighborhood labels are too broad. Upper Manhattan in particular has a wide range of prices and covers a large geographic area, which makes it hard to generalize conclusions about it. 
 
-Since I'm using the Roomi neighborhood classifications, and obviously nobody does demographics by neighborhoods, I pulled neighborhood shapefiles from Zillow (at some point in the past I converted these to geojsons and I don't recall how I did it, so I'm just uploading the relevant geojsons) to visualize the Roomi neighborhoods and I compared that to zipcode demographics. 
+Since I'm using the Roomi neighborhood classifications, and obviously nobody does demographics by neighborhoods, I pulled neighborhood shapefiles from Zillow (at some point in the past I converted these to geojsons and I don't recall how I did it, so I'm just uploading the relevant geojsons) to visualize the Roomi neighborhoods and I compared that to zipcode demographics. All relevant CSVs can be found under /datasets.
 
 ![https://www.zillow.com/howto/api/neighborhood-boundaries.htm](https://www.zillowstatic.com/vstatic/b20c067/static/logos/Zillow_Logo_HoodsProvided_RightAligned.gif)
 https://www.zillow.com/howto/api/neighborhood-boundaries.html
 
-Now let's get some pretty pictures in there. The following visualizations were all made with Uber Kepler.
+Now let's get some pretty pictures in there. The following visualizations were all made with Uber Kepler. To replicate them, upload the keplergl JSON to the Uber Kepler demo website. 
 
 ![Imgur](https://i.imgur.com/kQwgKmO.jpg)
 
