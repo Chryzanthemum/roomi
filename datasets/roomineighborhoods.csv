@@ -1,0 +1,1147 @@
+neighborhood,price,city
+Lawrenceville,$750,roomi atlanta
+Fayetteville,$750,roomi atlanta
+Oakland City,$650,roomi atlanta
+Fairlie-Poplar,$600,roomi atlanta
+Riverview,$900,roomi atlanta
+Morrow,$900,roomi atlanta
+Morrow,$550,roomi atlanta
+Kennesaw,$650,roomi atlanta
+Fairburn,$700,roomi atlanta
+Atlanta,$600,roomi atlanta
+Decatur,$750,roomi atlanta
+Mechanicsville,$350,roomi atlanta
+Tucker,$480,roomi atlanta
+Dacula,$700,roomi atlanta
+Smyrna,$500,roomi atlanta
+Midtown,$510,roomi atlanta
+Scottdale,"$2,000",roomi atlanta
+Stone Mountain,$700,roomi atlanta
+Atlanta,$700,roomi atlanta
+Downtown,$550,roomi atlanta
+Toco Hills,$615,roomi atlanta
+Milton,$810,roomi atlanta
+Berkeley Park,$817,roomi atlanta
+South Austin,$700,roomi austin
+Central Austin,$700,roomi austin
+Southpark Meadows,"$1,040",roomi austin
+North Burnet–Gateway,$600,roomi austin
+Windermere,"$1,150",roomi austin
+Olympic Heights,$600,roomi austin
+North Austin,$700,roomi austin
+Canyon Creek,$750,roomi austin
+Hyde Park,$600,roomi austin
+Northwest Washington,$475,roomi baltimore
+Lansdowne - Baltimore Highlands,$850,roomi baltimore
+Jessup,$850,roomi baltimore
+Woodbourne - McCabe,$900,roomi baltimore
+Arlington,$400,roomi baltimore
+Hyattsville,"$1,000",roomi baltimore
+Parkville,$750,roomi baltimore
+Landmark,$850,roomi baltimore
+North Potomac,$650,roomi baltimore
+Hyattsville,$600,roomi baltimore
+Waldorf,$900,roomi baltimore
+Keniworth Park,$900,roomi baltimore
+Montgomery Village,$800,roomi baltimore
+Montgomery Village,$700,roomi baltimore
+Centreville,$777,roomi baltimore
+Springfield,$800,roomi baltimore
+North Potomac,$800,roomi baltimore
+Alexandria West,$900,roomi baltimore
+Locust Point,"$1,000",roomi baltimore
+Herndon,$700,roomi baltimore
+Woodbridge,$400,roomi baltimore
+Downtown Silver Spring,$850,roomi baltimore
+Bolton Hill,$800,roomi baltimore
+Olney,$600,roomi baltimore
+Lake Ridge,$761,roomi baltimore
+Elkridge,$775,roomi baltimore
+Crystal City,$725,roomi baltimore
+Fairfax,$600,roomi baltimore
+Silver Spring,$600,roomi baltimore
+North Brookline,$650,roomi boston
+Banks Square,"$1,140",roomi boston
+Beacon Hill,$850,roomi boston
+Meeting House Hill,"$1,400",roomi boston
+Meeting House Hill,$700,roomi boston
+Oak Square,$750,roomi boston
+Woburn,"$1,000",roomi boston
+Columbus,$924,roomi boston
+Dorchester,$788,roomi boston
+Dorchester,$700,roomi boston
+Dorchester,$800,roomi boston
+Allston,"$1,200",roomi boston
+Lynn,"$1,100",roomi boston
+Ward Two,$850,roomi boston
+Fenway/Kenmore,$900,roomi boston
+Watertown,"$1,200",roomi boston
+Brighton,"$1,400",roomi boston
+Central-Maverick Square / Paris Street,$900,roomi boston
+Jamaica Plain,"$1,532",roomi boston
+Southern Mattapan,"$1,350",roomi boston
+Brighton,$800,roomi boston
+West Fens,"$1,000",roomi boston
+Oak Square,"$1,100",roomi boston
+Medford,"$1,500",roomi boston
+Melrose,$690,roomi boston
+East Boston,"$1,400",roomi boston
+South Boston,$850,roomi boston
+Brighton,"$1,050",roomi boston
+North Brookline,"$1,200",roomi boston
+East Boston,"$1,000",roomi boston
+North End,$600,roomi boston
+Allston,$683,roomi boston
+West End,"$1,850",roomi boston
+Brighton,$875,roomi boston
+Brighton,"$1,600",roomi boston
+South Side,$550,roomi chicago
+South Chicago,$650,roomi chicago
+South Side,$400,roomi chicago
+Uptown,$400,roomi chicago
+Lake View,$700,roomi chicago
+Logan Square,"$1,350",roomi chicago
+South Loop,$537,roomi chicago
+Lake View East,"$1,451",roomi chicago
+Jefferson Park,"$1,250",roomi chicago
+Elk Grove Village,"$1,000",roomi chicago
+Portage Park,$625,roomi chicago
+Palatine,$700,roomi chicago
+Chicago Loop,$650,roomi chicago
+Lake View,$500,roomi chicago
+Ravenswood,"$1,000",roomi chicago
+Elk Grove Village,"$1,250",roomi chicago
+Arcadia Terrace,$875,roomi chicago
+West Town,"$1,050",roomi chicago
+Near West Side,$600,roomi chicago
+Oak Lawn,$880,roomi dallas
+Southwest Carrollton,"$1,000",roomi dallas
+Lake Highlands,$600,roomi dallas
+Grand Prairie,$875,roomi dallas
+Southeast Arlington,$650,roomi dallas
+Euless,$675,roomi dallas
+Crowley,$500,roomi dallas
+Junius Heights,$650,roomi dallas
+Lake Highlands,$750,roomi dallas
+Valley Ranch,$499,roomi dallas
+Hillview,$500,roomi dallas
+Bryan Place,$400,roomi dallas
+Far North Dallas,"$1,200",roomi dallas
+Ash Creek Estates,$830,roomi dallas
+Dallas,$575,roomi dallas
+McKinney,"$1,000",roomi dallas
+Baker,"$1,200",roomi denver
+West Colfax,$800,roomi denver
+LoDo,"$1,250",roomi denver
+Capitol Hill,$900,roomi denver
+North Pinery,$800,roomi denver
+Southeast,$850,roomi denver
+Scenic Heights,$900,roomi denver
+Cherry Knolls,$675,roomi denver
+Barths,$900,roomi denver
+Denver,$850,roomi denver
+Cherry Creek,$875,roomi denver
+South,"$1,100",roomi denver
+South,"$1,000",roomi denver
+Congress Park,$950,roomi denver
+Cheesman Park,$800,roomi denver
+Montrose,$700,roomi houston
+Saddle Ridge,"$1,000",roomi houston
+Westside,$500,roomi houston
+Rosharon,$500,roomi houston
+South Central Houston,$850,roomi houston
+Southwest Houston,"$1,000",roomi houston
+Colony Lake Estates,$625,roomi houston
+Bonaire,$850,roomi houston
+Fourth Ward,$550,roomi houston
+Northwest Park,"$1,100",roomi houston
+South Main,$500,roomi houston
+Montrose,$500,roomi houston
+Southwest Houston,"$1,100",roomi houston
+Spring,$450,roomi houston
+Northwest Houston,$650,roomi houston
+Grogan's Mill,$700,roomi houston
+Houston,$600,roomi houston
+The Lakes,"$1,000",roomi las vegas
+Desert Hills,$712,roomi las vegas
+Sunrise Manor,$500,roomi las vegas
+Providence,$900,roomi las vegas
+Peccole Ranch,$900,roomi las vegas
+McCullough Hills,$600,roomi las vegas
+Sunrise Manor,$375,roomi las vegas
+The Section Seven,$575,roomi las vegas
+Enterprise,$650,roomi las vegas
+Las Vegas,$500,roomi las vegas
+Paradise,$600,roomi las vegas
+Las Vegas,$800,roomi las vegas
+Las Vegas,$650,roomi las vegas
+Newport Coast,$800,roomi los angeles
+Westwood,$900,roomi los angeles
+Central LA,"$1,400",roomi los angeles
+South Coast Metro,"$1,015",roomi los angeles
+Central LA,$825,roomi los angeles
+Azusa,"$1,000",roomi los angeles
+Van Nuys,"$1,100",roomi los angeles
+Valencia,$900,roomi los angeles
+North Hollywood,$675,roomi los angeles
+Central LA,"$1,300",roomi los angeles
+La Brea,"$1,000",roomi los angeles
+Walnut Valley,$750,roomi los angeles
+Northridge,$700,roomi los angeles
+Reseda,$825,roomi los angeles
+Melrose,"$1,095",roomi los angeles
+Mar Vista,"$1,400",roomi los angeles
+North Pomona,"$1,250",roomi los angeles
+Hollywood,$750,roomi los angeles
+Azusa,$900,roomi los angeles
+North Pomona,$850,roomi los angeles
+Northridge,$750,roomi los angeles
+West Los Angeles,$700,roomi los angeles
+Burbank,"$1,350",roomi los angeles
+Los Cerritos,"$1,300",roomi los angeles
+Platinum Triangle,$900,roomi los angeles
+Northridge,"$1,260",roomi los angeles
+West Los Angeles,"$1,200",roomi los angeles
+Central LA,$935,roomi los angeles
+Central LA,$995,roomi los angeles
+Cypress,"$1,195",roomi los angeles
+Central LA,$700,roomi los angeles
+Downtown,"$1,500",roomi los angeles
+Los Angeles,$750,roomi los angeles
+Lancaster,"$1,350",roomi los angeles
+Castle Heights,$600,roomi los angeles
+Palmdale,$850,roomi los angeles
+Pomona,$600,roomi los angeles
+Madrona,$850,roomi los angeles
+North Hollywood,$800,roomi los angeles
+Northridge,"$1,333",roomi los angeles
+South Inglewood,"$1,000",roomi los angeles
+Rampart Village,$350,roomi los angeles
+Fullerton,"$1,150",roomi los angeles
+Mid-Wilshire,$900,roomi los angeles
+Van Nuys,"$1,200",roomi los angeles
+Central LA,$800,roomi los angeles
+Riverview West,"$1,000",roomi los angeles
+Van Nuys,"$1,000",roomi los angeles
+North Redondo,$900,roomi los angeles
+South Los Angeles,"$1,250",roomi los angeles
+Central LA,$800,roomi los angeles
+Central LA,"$1,600",roomi los angeles
+Central LA,$742,roomi los angeles
+Downtown,$742,roomi los angeles
+Northeast Los Angeles,"$1,700",roomi los angeles
+Norwalk,"$1,632",roomi los angeles
+Santa Fe Springs,"$1,000",roomi los angeles
+Westmont,$750,roomi los angeles
+South Park,$566,roomi los angeles
+Hawthorne,$800,roomi los angeles
+Chatsworth,$500,roomi los angeles
+Valencia,$750,roomi los angeles
+Northeast Los Angeles,$586,roomi los angeles
+Downtown,$950,roomi los angeles
+Quail Valley,"$1,900",roomi los angeles
+Central LA,"$1,450",roomi los angeles
+Coyote Canyon,$650,roomi los angeles
+Anaheim Resort,"$1,780",roomi los angeles
+Central LA,$750,roomi los angeles
+Brentwood,"$1,050",roomi los angeles
+Woodbridge,"$1,260",roomi los angeles
+Irvine,"$1,250",roomi los angeles
+Central LA,$950,roomi los angeles
+Canyon Country,"$1,300",roomi los angeles
+Burbank,$900,roomi los angeles
+Playa del Rey,$950,roomi los angeles
+Alamitos Beach,$650,roomi los angeles
+Central LA,"$1,200",roomi los angeles
+Fontana,"$1,200",roomi los angeles
+Brentwood,"$1,450",roomi los angeles
+Central LA,"$2,000",roomi los angeles
+Orange,$700,roomi los angeles
+Sherman Oaks,"$1,368",roomi los angeles
+Central LA,$750,roomi los angeles
+Huntington Beach,$500,roomi los angeles
+Menifee,"$1,200",roomi los angeles
+Menifee,"$1,000",roomi los angeles
+North Hollywood,$700,roomi los angeles
+Naples,$975,roomi los angeles
+Central LA,$700,roomi los angeles
+Aliso Viejo,$700,roomi los angeles
+Westwood,$897,roomi los angeles
+South Los Angeles,$925,roomi los angeles
+University Park,"$1,425",roomi los angeles
+North Hollywood,$700,roomi los angeles
+South Los Angeles,$965,roomi los angeles
+Upper East Side,$650,roomi miami
+Allapattah,"$1,500",roomi miami
+Leisure City,$750,roomi miami
+Wynwood,$700,roomi miami
+Davie,"$1,600",roomi miami
+Brickell,$950,roomi miami
+Hallandale Beach,"$1,300",roomi miami
+East Little Havana,"$1,000",roomi miami
+Coral Way,$800,roomi miami
+Coral Way,$925,roomi miami
+Doral,$800,roomi miami
+Sunrise,$800,roomi miami
+South Beach,$950,roomi miami
+Villages of Palm Beach Lakes,$750,roomi miami
+Edgewater,$950,roomi miami
+Downtown Miami,"$1,325",roomi miami
+North Miami,"$1,000",roomi miami
+Flamingo / Lummus,$850,roomi miami
+North Lauderdale,$900,roomi miami
+Downtown Miami,"$1,000",roomi miami
+Delray Beach,$500,roomi miami
+Villages of Palm Beach Lakes,"$1,300",roomi miami
+Doral,$900,roomi miami
+Flagler Village,$750,roomi miami
+Fort Lauderdale,$950,roomi miami
+Edgewater,"$1,250",roomi miami
+South Beach,"$1,200",roomi miami
+Miami,"$1,100",roomi miami
+Pembroke Park,$800,roomi miami
+Crown Heights,"$1,100",roomi nyc
+Upper Manhattan,"$1,200",roomi nyc
+Upper Manhattan,"$1,000",roomi nyc
+Greenwood,"$1,092",roomi nyc
+Hell's Kitchen,"$1,600",roomi nyc
+Crown Heights,"$1,800",roomi nyc
+Upper Manhattan,"$1,450",roomi nyc
+East Flatbush,"$1,800",roomi nyc
+StuyTown,$800,roomi nyc
+Williamsburg,"$1,700",roomi nyc
+Long Island City,"$1,100",roomi nyc
+Greenpoint,$845,roomi nyc
+West Bronx,"$1,050",roomi nyc
+Cypress Hills,$900,roomi nyc
+Long Island City,$850,roomi nyc
+Midtown,"$1,150",roomi nyc
+Crown Heights,"$1,730",roomi nyc
+Harlem,$900,roomi nyc
+Crown Heights,"$1,287",roomi nyc
+Flatbush - Ditmas Park,$975,roomi nyc
+Bushwick,"$1,500",roomi nyc
+Upper East Side,$875,roomi nyc
+Kensington,"$1,275",roomi nyc
+Williamsburg,"$1,400",roomi nyc
+East Flatbush,"$1,650",roomi nyc
+Long Island City,"$1,000",roomi nyc
+Upper Manhattan,"$1,400",roomi nyc
+Midtown,"$1,100",roomi nyc
+Carroll Gardens,"$2,000",roomi nyc
+Midtown,"$1,000",roomi nyc
+Midtown,"$1,800",roomi nyc
+Williamsburg,"$1,200",roomi nyc
+Historic Downtown,"$1,400",roomi nyc
+Lower Manhattan,"$1,400",roomi nyc
+Crown Heights,"$1,100",roomi nyc
+Boerum Hill,$900,roomi nyc
+Upper Manhattan,"$1,050",roomi nyc
+Weehawken,"$1,510",roomi nyc
+Upper Manhattan,$825,roomi nyc
+New York,"$1,250",roomi nyc
+Bushwick,"$1,050",roomi nyc
+Upper Manhattan,"$1,050",roomi nyc
+East Bronx,$882,roomi nyc
+Upper West Side,"$1,050",roomi nyc
+Hoboken,$850,roomi nyc
+Lower Manhattan,"$1,375",roomi nyc
+Yorkville,"$1,100",roomi nyc
+Upper East Side,"$1,650",roomi nyc
+Midtown West,"$1,250",roomi nyc
+Midtown,"$1,050",roomi nyc
+Greenpoint,"$2,010",roomi nyc
+Midtown,"$1,850",roomi nyc
+Harlem,$750,roomi nyc
+Upper East Side,"$1,760",roomi nyc
+Bushwick,"$1,210",roomi nyc
+StuyTown,"$1,600",roomi nyc
+Midtown,"$1,000",roomi nyc
+Crown Heights,"$1,626",roomi nyc
+Midtown,"$1,700",roomi nyc
+StuyTown,"$1,400",roomi nyc
+Williamsburg,"$1,650",roomi nyc
+Lower Manhattan,"$1,450",roomi nyc
+Bushwick,"$1,300",roomi nyc
+Crown Heights,"$1,600",roomi nyc
+New York,$900,roomi nyc
+Upper Manhattan,$875,roomi nyc
+Upper Manhattan,"$1,642",roomi nyc
+Lower Manhattan,$800,roomi nyc
+Harlem,"$1,015",roomi nyc
+Inwood,"$1,333",roomi nyc
+Bushwick,"$2,100",roomi nyc
+Upper Manhattan,"$1,300",roomi nyc
+Cypress Hills,"$1,000",roomi nyc
+Hoboken,"$1,275",roomi nyc
+Williamsburg,"$1,100",roomi nyc
+Upper West Side,$581,roomi nyc
+Prospect Heights,$900,roomi nyc
+Gowanus,"$1,800",roomi nyc
+Flushing,"$1,021",roomi nyc
+Upper Manhattan,"$1,775",roomi nyc
+Greenpoint,"$1,450",roomi nyc
+Bedford-Stuyvesant,"$1,250",roomi nyc
+Crown Heights,"$1,625",roomi nyc
+Bedford-Stuyvesant,$770,roomi nyc
+Boerum Hill,"$1,200",roomi nyc
+Washington Heights,"$1,325",roomi nyc
+Lower Manhattan,$800,roomi nyc
+Bushwick,$925,roomi nyc
+Midtown,$950,roomi nyc
+Long Island City,"$1,600",roomi nyc
+Midtown,"$1,450",roomi nyc
+Bushwick,"$1,850",roomi nyc
+Bedford-Stuyvesant,"$1,350",roomi nyc
+Midtown,$800,roomi nyc
+Upper Manhattan,"$2,700",roomi nyc
+Upper Manhattan,"$1,150",roomi nyc
+Kew Gardens,"$1,300",roomi nyc
+Prospect Heights,$725,roomi nyc
+East Williamsburg,"$1,250",roomi nyc
+Kew Gardens,"$1,925",roomi nyc
+Prospect Heights,"$1,600",roomi nyc
+East Williamsburg,"$1,500",roomi nyc
+Long Island City,"$1,450",roomi nyc
+Downtown Jersey City,"$1,400",roomi nyc
+Bedford-Stuyvesant,"$2,000",roomi nyc
+Midtown,"$1,550",roomi nyc
+Astoria,"$1,400",roomi nyc
+Flushing,"$2,000",roomi nyc
+Prospect Heights,"$1,550",roomi nyc
+Lower Manhattan,"$1,150",roomi nyc
+Flushing,$900,roomi nyc
+Upper West Side,"$1,005",roomi nyc
+Park Slope,"$1,500",roomi nyc
+Kips Bay,"$1,250",roomi nyc
+Clinton Hill,$900,roomi nyc
+Oakwood,$900,roomi nyc
+Bushwick,"$1,450",roomi nyc
+Prospect Lefferts Gardens,$950,roomi nyc
+Flushing,"$1,100",roomi nyc
+Long Island City,"$1,150",roomi nyc
+Bushwick,"$1,520",roomi nyc
+Upper Manhattan,$895,roomi nyc
+Upper Manhattan,"$1,000",roomi nyc
+Greenpoint,$938,roomi nyc
+Midtown,"$1,649",roomi nyc
+Bushwick,$775,roomi nyc
+Park Slope,"$1,200",roomi nyc
+Prospect Heights,"$1,350",roomi nyc
+Upper West Side,"$1,690",roomi nyc
+Lower East Side,"$1,600",roomi nyc
+Greenpoint,"$1,275",roomi nyc
+Midtown,"$1,515",roomi nyc
+Astoria,$850,roomi nyc
+South Slope,"$1,175",roomi nyc
+Bushwick,"$1,300",roomi nyc
+East Village,"$1,200",roomi nyc
+Williamsburg,"$2,435",roomi nyc
+Crown Heights,"$1,200",roomi nyc
+Clinton Hill,"$1,500",roomi nyc
+Midtown,$870,roomi nyc
+Upper East Side,"$1,050",roomi nyc
+Chelsea,"$1,225",roomi nyc
+Flushing,"$1,200",roomi nyc
+Williamsburg,"$1,100",roomi nyc
+Dyker Heights,"$1,700",roomi nyc
+Crown Heights,"$1,233",roomi nyc
+Upper West Side,"$1,125",roomi nyc
+Long Island City,"$1,350",roomi nyc
+New York,"$1,300",roomi nyc
+Lincoln Square,"$1,325",roomi nyc
+Lower Manhattan,"$2,250",roomi nyc
+Long Island City,"$1,600",roomi nyc
+Flatbush - Ditmas Park,"$1,000",roomi nyc
+Flatbush - Ditmas Park,"$1,325",roomi nyc
+Bushwick,$925,roomi nyc
+Roosevelt Island,"$1,200",roomi nyc
+Upper West Side,"$1,500",roomi nyc
+Upper Manhattan,"$1,300",roomi nyc
+Long Island City,$900,roomi nyc
+Midtown,"$1,480",roomi nyc
+Inwood,"$2,000",roomi nyc
+Bedford-Stuyvesant,"$1,150",roomi nyc
+Bushwick,$900,roomi nyc
+Midtown,"$2,000",roomi nyc
+Upper East Side,"$1,250",roomi nyc
+Upper Manhattan,$950,roomi nyc
+Lower Manhattan,"$1,350",roomi nyc
+Bushwick,"$1,650",roomi nyc
+Upper Manhattan,"$1,100",roomi nyc
+Midtown,"$1,800",roomi nyc
+Flatbush - Ditmas Park,"$1,500",roomi nyc
+Crown Heights,$950,roomi nyc
+Long Island City,$840,roomi nyc
+Boerum Hill,$850,roomi nyc
+Greenpoint,"$1,100",roomi nyc
+Yorkville,"$1,000",roomi nyc
+West Bronx,"$1,400",roomi nyc
+Williamsburg,"$1,250",roomi nyc
+Lower Manhattan,"$1,800",roomi nyc
+Williamsburg,"$1,100",roomi nyc
+NoHo,"$1,340",roomi nyc
+Crown Heights,"$1,950",roomi nyc
+Bedford-Stuyvesant,"$1,499",roomi nyc
+Bedford-Stuyvesant,$900,roomi nyc
+Park Slope,"$1,300",roomi nyc
+Constable Hook,"$1,000",roomi nyc
+Bedford-Stuyvesant,"$1,825",roomi nyc
+Upper West Side,"$1,275",roomi nyc
+Bedford-Stuyvesant,"$1,250",roomi nyc
+StuyTown,$800,roomi nyc
+Midtown,"$1,150",roomi nyc
+Flushing,"$2,400",roomi nyc
+Yorkville,"$1,300",roomi nyc
+Crown Heights,"$1,400",roomi nyc
+Greenpoint,"$1,620",roomi nyc
+Glen Oaks,$850,roomi nyc
+Flatbush - Ditmas Park,"$1,100",roomi nyc
+Park Slope,"$1,150",roomi nyc
+Upper West Side,$900,roomi nyc
+Upper Manhattan,"$1,300",roomi nyc
+Williamsburg,"$1,375",roomi nyc
+Flushing,"$1,300",roomi nyc
+Williamsburg,"$1,700",roomi nyc
+Crown Heights,"$1,850",roomi nyc
+Woodside,"$1,100",roomi nyc
+Williamsburg,"$1,250",roomi nyc
+Jamaica,"$1,490",roomi nyc
+StuyTown,"$1,300",roomi nyc
+Upper Manhattan,"$1,275",roomi nyc
+Jamaica,$950,roomi nyc
+Prospect Lefferts Gardens,"$1,150",roomi nyc
+Midtown,$610,roomi nyc
+Hamilton Heights,"$1,300",roomi nyc
+Gowanus,"$1,175",roomi nyc
+Fleetwood - Concourse Village,"$1,000",roomi nyc
+Prospect Heights,$750,roomi nyc
+East Williamsburg,"$1,600",roomi nyc
+Bedford-Stuyvesant,$950,roomi nyc
+Midwood,"$1,100",roomi nyc
+Port Morris,"$1,500",roomi nyc
+Upper West Side,$400,roomi nyc
+Lower Manhattan,"$1,750",roomi nyc
+Upper Manhattan,"$1,000",roomi nyc
+Williamsburg,$900,roomi nyc
+Upper Manhattan,$700,roomi nyc
+Flatbush - Ditmas Park,"$1,500",roomi nyc
+Midtown East,"$1,400",roomi nyc
+Ridgewood,$966,roomi nyc
+Upper West Side,"$1,335",roomi nyc
+Gramercy Park,$775,roomi nyc
+Midtown,"$1,379",roomi nyc
+Lower Manhattan,"$1,200",roomi nyc
+Crown Heights,"$1,400",roomi nyc
+Long Island City,$950,roomi nyc
+Ridgewood,"$1,700",roomi nyc
+Crown Heights,"$1,000",roomi nyc
+Hamilton Heights,"$1,000",roomi nyc
+Upper Manhattan,"$3,990",roomi nyc
+Fort Greene,$975,roomi nyc
+Upper Manhattan,"$1,375",roomi nyc
+Upper West Side,$900,roomi nyc
+Woodside,"$1,200",roomi nyc
+Upper Manhattan,"$1,375",roomi nyc
+Upper Manhattan,$856,roomi nyc
+Upper Manhattan,"$1,175",roomi nyc
+Ridgewood,"$1,750",roomi nyc
+Upper Manhattan,"$1,750",roomi nyc
+Crown Heights,"$1,500",roomi nyc
+Columbus,$700,roomi nyc
+Bedford-Stuyvesant,$800,roomi nyc
+East Williamsburg,"$1,174",roomi nyc
+West Bronx,"$1,100",roomi nyc
+StuyTown,"$1,550",roomi nyc
+Upper East Side,"$1,250",roomi nyc
+Upper Manhattan,"$2,000",roomi nyc
+Bedford-Stuyvesant,"$1,200",roomi nyc
+Bay Ridge,"$1,215",roomi nyc
+Bay Ridge,"$1,250",roomi nyc
+Bay Ridge,"$1,500",roomi nyc
+Williamsburg,"$1,200",roomi nyc
+Upper Manhattan,"$1,000",roomi nyc
+Bushwick,"$1,200",roomi nyc
+Upper Manhattan,"$1,150",roomi nyc
+Crown Heights,"$1,200",roomi nyc
+Manor Heights,$775,roomi nyc
+Windsor Terrace,"$1,250",roomi nyc
+Crown Heights,$900,roomi nyc
+East Bronx,$700,roomi nyc
+Prospect Lefferts Gardens,"$1,650",roomi nyc
+Upper Manhattan,"$1,750",roomi nyc
+Lower Manhattan,"$1,600",roomi nyc
+Upper Manhattan,"$2,100",roomi nyc
+Hamilton Heights,$875,roomi nyc
+Astoria,"$1,000",roomi nyc
+East Village,$999,roomi nyc
+White Plains,"$1,000",roomi nyc
+Bushwick,"$1,300",roomi nyc
+Greenwich Village,"$1,010",roomi nyc
+Bushwick,"$1,100",roomi nyc
+Bedford-Stuyvesant,"$1,200",roomi nyc
+Midtown,"$1,875",roomi nyc
+Bedford-Stuyvesant,"$1,075",roomi nyc
+Brooklyn Heights,$900,roomi nyc
+Bedford-Stuyvesant,"$1,000",roomi nyc
+East Williamsburg,"$1,100",roomi nyc
+Midtown,$800,roomi nyc
+Upper Manhattan,"$1,300",roomi nyc
+Upper East Side,"$1,500",roomi nyc
+Bedford-Stuyvesant,"$3,200",roomi nyc
+Long Island City,$950,roomi nyc
+Upper East Side,"$1,425",roomi nyc
+Upper Manhattan,"$1,000",roomi nyc
+Upper Manhattan,"$1,300",roomi nyc
+Bowery,"$1,850",roomi nyc
+Union City,"$1,250",roomi nyc
+East Williamsburg,$892,roomi nyc
+Lincoln Square,"$2,150",roomi nyc
+Flushing,$950,roomi nyc
+Bedford-Stuyvesant,"$1,000",roomi nyc
+Flatbush - Ditmas Park,"$1,700",roomi nyc
+Upper Manhattan,$775,roomi nyc
+Crown Heights,"$1,500",roomi nyc
+West Bronx,"$1,800",roomi nyc
+West Midwood,"$1,275",roomi nyc
+Ossining,"$2,255",roomi nyc
+Upper Manhattan,"$1,300",roomi nyc
+Greenpoint,"$1,675",roomi nyc
+Downtown Brooklyn,"$1,375",roomi nyc
+East Williamsburg,"$1,500",roomi nyc
+Williamsburg,"$1,450",roomi nyc
+Upper Manhattan,"$1,400",roomi nyc
+Hell's Kitchen,$950,roomi nyc
+Hoboken,"$1,700",roomi nyc
+Williamsburg,"$1,250",roomi nyc
+Greenpoint,"$1,000",roomi nyc
+Upper West Side,"$1,200",roomi nyc
+Midtown,"$1,200",roomi nyc
+Midtown,"$1,400",roomi nyc
+Hoboken,"$1,200",roomi nyc
+Bedford-Stuyvesant,"$1,132",roomi nyc
+Bedford-Stuyvesant,"$1,000",roomi nyc
+Bushwick,$650,roomi nyc
+Bushwick,$750,roomi nyc
+Crown Heights,"$1,200",roomi nyc
+Bay Ridge,"$1,050",roomi nyc
+Upper West Side,"$1,243",roomi nyc
+Hamilton Heights,"$1,400",roomi nyc
+East Williamsburg,"$1,225",roomi nyc
+Bedford-Stuyvesant,"$1,400",roomi nyc
+Flushing,"$1,300",roomi nyc
+Lower Manhattan,"$1,200",roomi nyc
+Greenwood,"$1,747",roomi nyc
+Lower Manhattan,"$1,200",roomi nyc
+Upper Manhattan,"$1,150",roomi nyc
+Midtown,"$1,250",roomi nyc
+Sunset Park,"$1,600",roomi nyc
+Harlem,"$2,056",roomi nyc
+West Bronx,"$1,200",roomi nyc
+Harlem,"$1,600",roomi nyc
+Bushwick,"$1,400",roomi nyc
+Bushwick,$950,roomi nyc
+Chelsea,"$1,000",roomi nyc
+Hell's Kitchen,"$1,200",roomi nyc
+Murray Hill,"$1,215",roomi nyc
+Nolita,"$1,200",roomi nyc
+Bushwick,"$1,675",roomi nyc
+East Bronx,"$1,150",roomi nyc
+Bay Ridge,"$1,550",roomi nyc
+Bushwick,$850,roomi nyc
+Sheepshead Bay,$680,roomi nyc
+Bedford-Stuyvesant,"$3,000",roomi nyc
+Upper Manhattan,"$1,350",roomi nyc
+Sheepshead Bay,"$2,000",roomi nyc
+Upper Manhattan,$816,roomi nyc
+Flushing,"$1,600",roomi nyc
+Crown Heights,"$1,300",roomi nyc
+Astoria,"$1,550",roomi nyc
+Midtown,"$1,125",roomi nyc
+Lower Manhattan,$800,roomi nyc
+Upper West Side,"$1,300",roomi nyc
+Boerum Hill,"$1,050",roomi nyc
+Clinton Hill,"$1,300",roomi nyc
+Prospect Heights,"$1,585",roomi nyc
+Midtown,"$1,725",roomi nyc
+Yorkville,"$1,585",roomi nyc
+Bedford-Stuyvesant,"$1,750",roomi nyc
+Bedford-Stuyvesant,"$1,485",roomi nyc
+Park Slope,$900,roomi nyc
+Upper Manhattan,$700,roomi nyc
+East Harlem,$900,roomi nyc
+East Harlem,$750,roomi nyc
+Crown Heights,$900,roomi nyc
+Upper Manhattan,$950,roomi nyc
+Woodside,$750,roomi nyc
+Lower Manhattan,$950,roomi nyc
+Bedford-Stuyvesant,$975,roomi nyc
+Bedford-Stuyvesant,"$1,075",roomi nyc
+StuyTown,"$1,450",roomi nyc
+Bushwick,"$1,780",roomi nyc
+Astoria,"$1,700",roomi nyc
+Bushwick,"$1,200",roomi nyc
+Upper Manhattan,"$2,000",roomi nyc
+Bedford-Stuyvesant,"$1,000",roomi nyc
+StuyTown,"$1,200",roomi nyc
+East Williamsburg,"$2,100",roomi nyc
+Upper Manhattan,"$1,500",roomi nyc
+Lower Manhattan,"$1,170",roomi nyc
+Bedford-Stuyvesant,"$1,000",roomi nyc
+Lincoln Square,"$1,000",roomi nyc
+Mariners Harbor,"$2,280",roomi nyc
+Upper Manhattan,"$1,400",roomi nyc
+StuyTown,"$1,100",roomi nyc
+Williamsburg,"$1,650",roomi nyc
+Upper Manhattan,"$1,200",roomi nyc
+Yorkville,$894,roomi nyc
+Clinton Hill,"$1,500",roomi nyc
+Crown Heights,"$1,300",roomi nyc
+Kips Bay,$850,roomi nyc
+Downtown Brooklyn,"$1,100",roomi nyc
+Washington Heights,"$1,600",roomi nyc
+Crown Heights,$700,roomi nyc
+Bushwick,"$1,599",roomi nyc
+Long Island City,$800,roomi nyc
+Long Island City,"$1,350",roomi nyc
+Upper Manhattan,$900,roomi nyc
+Midtown,"$1,650",roomi nyc
+Long Island City,"$1,400",roomi nyc
+Long Island City,"$1,100",roomi nyc
+Crown Heights,"$1,625",roomi nyc
+Williamsburg,"$1,000",roomi nyc
+Upper Manhattan,"$1,375",roomi nyc
+Upper East Side,"$1,000",roomi nyc
+Bedford-Stuyvesant,$925,roomi nyc
+Greenpoint,$900,roomi nyc
+West Bronx,"$1,650",roomi nyc
+Bushwick,"$1,350",roomi nyc
+Lower Manhattan,"$1,070",roomi nyc
+Midtown,"$1,600",roomi nyc
+Crown Heights,"$1,550",roomi nyc
+Upper Manhattan,"$1,250",roomi nyc
+East Harlem,"$1,802",roomi nyc
+Bushwick,$975,roomi nyc
+StuyTown,"$1,000",roomi nyc
+Upper East Side,"$1,010",roomi nyc
+Hudson Heights,"$1,330",roomi nyc
+Long Island City,"$1,400",roomi nyc
+Upper East Side,"$1,100",roomi nyc
+Bedford-Stuyvesant,"$1,225",roomi nyc
+StuyTown,"$4,500",roomi nyc
+Upper Manhattan,"$1,100",roomi nyc
+Upper Manhattan,$900,roomi nyc
+UWS,"$1,330",roomi nyc
+Upper Manhattan,"$1,000",roomi nyc
+Upper Manhattan,$850,roomi nyc
+Sunnyside,"$1,200",roomi nyc
+Flatbush - Ditmas Park,"$1,175",roomi nyc
+Maspeth,"$1,050",roomi nyc
+Lower Manhattan,"$1,400",roomi nyc
+Ridgewood,$500,roomi nyc
+Harlem,"$1,150",roomi nyc
+Upper West Side,"$1,845",roomi nyc
+Bushwick,"$1,100",roomi nyc
+Bedford-Stuyvesant,$967,roomi nyc
+Carroll Gardens,"$1,100",roomi nyc
+Ridgewood,"$1,575",roomi nyc
+LIC,$950,roomi nyc
+Boerum Hill,"$1,140",roomi nyc
+Williamsburg,"$1,500",roomi nyc
+Upper East Side,"$1,350",roomi nyc
+Kensington,"$1,000",roomi nyc
+Kensington,"$1,000",roomi nyc
+Crown Heights,"$1,375",roomi nyc
+Upper Manhattan,"$1,000",roomi nyc
+Upper Manhattan,"$1,500",roomi nyc
+UES,"$1,200",roomi nyc
+Upper Manhattan,$900,roomi nyc
+Bushwick,"$1,250",roomi nyc
+Lower Manhattan,"$1,013",roomi nyc
+Crown Heights,"$1,100",roomi nyc
+Long Island City,"$1,100",roomi nyc
+Lower Manhattan,$940,roomi nyc
+Upper Manhattan,$725,roomi nyc
+Midtown,"$1,500",roomi nyc
+Upper East Side,$785,roomi nyc
+Midtown,$800,roomi nyc
+Washington Heights,"$1,450",roomi nyc
+Long Island City,"$1,550",roomi nyc
+Bedford-Stuyvesant,$950,roomi nyc
+Bushwick,"$1,083",roomi nyc
+Midtown,"$1,100",roomi nyc
+Hoboken,$950,roomi nyc
+New Hope,$716,roomi nyc
+West Bronx,"$1,545",roomi nyc
+Park Slope,"$1,600",roomi nyc
+West New York,"$1,350",roomi nyc
+Bedford-Stuyvesant,"$1,600",roomi nyc
+LIC,"$1,200",roomi nyc
+Williamsburg,$750,roomi nyc
+Bedford-Stuyvesant,"$1,375",roomi nyc
+Williamsburg,$900,roomi nyc
+Lower Manhattan,"$1,200",roomi nyc
+Bushwick,"$1,250",roomi nyc
+Upper Manhattan,"$1,720",roomi nyc
+StuyTown,"$1,100",roomi nyc
+StuyTown,"$1,000",roomi nyc
+Boerum Hill,"$2,065",roomi nyc
+Boerum Hill,"$1,000",roomi nyc
+East Flatbush,$950,roomi nyc
+Bedford-Stuyvesant,"$1,525",roomi nyc
+Bushwick,"$1,200",roomi nyc
+Midtown,"$1,700",roomi nyc
+Long Island City,"$1,450",roomi nyc
+Yorkville,"$1,200",roomi nyc
+Roosevelt Island,"$1,125",roomi nyc
+Greenpoint,$625,roomi nyc
+Fort Greene,"$1,475",roomi nyc
+Upper West Side,"$1,050",roomi nyc
+Midtown,"$2,500",roomi nyc
+Upper Manhattan,"$1,400",roomi nyc
+Cypress Hills,$665,roomi nyc
+Midwood,"$2,000",roomi nyc
+Upper East Side,"$1,400",roomi nyc
+Bushwick,$800,roomi nyc
+Crown Heights,"$1,250",roomi nyc
+Tribeca,"$1,300",roomi nyc
+Brownsville,$900,roomi nyc
+Upper Manhattan,"$1,510",roomi nyc
+Upper Manhattan,$850,roomi nyc
+Williamsburg,"$1,200",roomi nyc
+East Harlem,"$1,200",roomi nyc
+Williamsburg,"$1,725",roomi nyc
+Bedford-Stuyvesant,"$1,000",roomi nyc
+Crown Heights,"$1,000",roomi nyc
+Astoria,"$1,612",roomi nyc
+Greenville,"$1,712",roomi nyc
+Bushwick,"$1,250",roomi nyc
+Lower Manhattan,"$1,250",roomi nyc
+Bay Ridge,$566,roomi nyc
+Bay Ridge,$900,roomi nyc
+Lower Manhattan,$750,roomi nyc
+Flushing,"$1,100",roomi nyc
+Lower Manhattan,"$1,534",roomi nyc
+Sunset Park,"$1,200",roomi nyc
+Upper Manhattan,"$1,375",roomi nyc
+Boerum Hill,"$1,600",roomi nyc
+Upper East Side,"$1,200",roomi nyc
+West Village,$800,roomi nyc
+Bushwick,"$1,513",roomi nyc
+Bay Ridge,"$1,200",roomi nyc
+Lower Manhattan,"$1,400",roomi nyc
+Flushing,"$1,200",roomi nyc
+Bedford-Stuyvesant,$800,roomi nyc
+StuyTown,$800,roomi nyc
+Astoria,"$1,900",roomi nyc
+Long Island City,"$1,200",roomi nyc
+Flatbush - Ditmas Park,"$1,650",roomi nyc
+Hamilton Heights,"$1,250",roomi nyc
+Upper Manhattan,"$2,200",roomi nyc
+Ditmars Steinway,$700,roomi nyc
+Upper East Side,"$1,158",roomi nyc
+Bedford-Stuyvesant,"$1,200",roomi nyc
+Park Slope,"$1,150",roomi nyc
+Bedford-Stuyvesant,"$1,150",roomi nyc
+Midtown,"$1,400",roomi nyc
+Midtown,"$1,700",roomi nyc
+Greenpoint,$950,roomi nyc
+Upper East Side,"$1,030",roomi nyc
+Crown Heights,$830,roomi nyc
+Woodside,$900,roomi nyc
+Prospect Lefferts Gardens,"$1,400",roomi nyc
+East Village,"$1,450",roomi nyc
+Williamsburg,$950,roomi nyc
+UWS,"$1,000",roomi nyc
+Williamsburg,"$1,350",roomi nyc
+Upper East Side,$975,roomi nyc
+Hoboken,"$1,900",roomi nyc
+Upper Manhattan,"$1,190",roomi nyc
+Williamsburg,$990,roomi nyc
+Bushwick,"$1,600",roomi nyc
+Hoboken,"$1,426",roomi nyc
+Upper Manhattan,"$1,800",roomi nyc
+Bedford-Stuyvesant,"$1,350",roomi nyc
+Bedford-Stuyvesant,$900,roomi nyc
+Flushing,"$1,940",roomi nyc
+The Waterfront,"$1,250",roomi nyc
+Upper Manhattan,"$1,025",roomi nyc
+Park Slope,$800,roomi nyc
+Ditmars Steinway,"$1,571",roomi nyc
+Bushwick,"$1,150",roomi nyc
+Bushwick,$950,roomi nyc
+Ridgewood,"$1,225",roomi nyc
+Midtown,"$1,300",roomi nyc
+Bedford-Stuyvesant,$900,roomi nyc
+East Williamsburg,"$1,150",roomi nyc
+StuyTown,$920,roomi nyc
+Upper Manhattan,"$1,425",roomi nyc
+Greenpoint,"$1,050",roomi nyc
+Crown Heights,"$1,075",roomi nyc
+Long Island City,"$1,500",roomi nyc
+Yorkville,"$1,575",roomi nyc
+Bushwick,"$1,000",roomi nyc
+Lower Manhattan,$700,roomi nyc
+Long Island City,"$1,850",roomi nyc
+Lower Manhattan,"$1,150",roomi nyc
+Lower Manhattan,$925,roomi nyc
+Gowanus,"$1,400",roomi nyc
+Upper Manhattan,"$1,350",roomi nyc
+StuyTown,"$1,175",roomi nyc
+Kips Bay,"$1,270",roomi nyc
+Lower Manhattan,"$1,890",roomi nyc
+Lower Manhattan,"$1,475",roomi nyc
+Long Island City,"$1,675",roomi nyc
+Bedford-Stuyvesant,"$1,250",roomi nyc
+Midtown East,"$1,070",roomi nyc
+Upper West Side,"$1,400",roomi nyc
+East Williamsburg,"$1,000",roomi nyc
+Midtown,"$1,250",roomi nyc
+Bedford-Stuyvesant,"$1,097",roomi nyc
+Williamsburg,"$1,800",roomi nyc
+Flushing,$950,roomi nyc
+Crown Heights,"$2,000",roomi nyc
+Upper Manhattan,$907,roomi nyc
+Lower Manhattan,"$1,275",roomi nyc
+Bushwick,$850,roomi nyc
+Bushwick,"$1,350",roomi nyc
+Bushwick,"$1,200",roomi nyc
+Bay Ridge,$875,roomi nyc
+Downtown Brooklyn,$875,roomi nyc
+Park Slope,"$1,500",roomi nyc
+Midtown,"$1,250",roomi nyc
+Upper Manhattan,$700,roomi nyc
+Williamsburg,$800,roomi nyc
+East Flatbush,"$1,700",roomi nyc
+Kensington,$975,roomi nyc
+Upper Manhattan,"$1,300",roomi nyc
+Midtown,$995,roomi nyc
+Bedford-Stuyvesant,$820,roomi nyc
+Fort Greene,"$1,433",roomi nyc
+Bushwick,"$1,100",roomi nyc
+Astoria,"$1,650",roomi nyc
+Greenpoint,$850,roomi nyc
+Prospect Lefferts Gardens,"$2,000",roomi nyc
+Midtown,"$1,400",roomi nyc
+Upper Manhattan,"$1,200",roomi nyc
+Harlem,$800,roomi nyc
+Hoboken,"$1,820",roomi nyc
+Upper Manhattan,"$1,875",roomi nyc
+Upper Manhattan,"$1,850",roomi nyc
+Kensington,"$1,280",roomi nyc
+Park Slope,"$1,268",roomi nyc
+Greenpoint,"$1,250",roomi nyc
+Upper Manhattan,"$1,185",roomi nyc
+Long Island City,$835,roomi nyc
+Hudson Heights,"$1,400",roomi nyc
+Harlem,"$1,950",roomi nyc
+Lower Manhattan,"$1,000",roomi nyc
+Harlem,"$1,350",roomi nyc
+Lower Manhattan,$867,roomi nyc
+StuyTown,$930,roomi nyc
+LIC,"$1,200",roomi nyc
+Williamsburg,"$1,400",roomi nyc
+East Harlem,$900,roomi nyc
+Rose Hill,"$1,300",roomi nyc
+Bedford-Stuyvesant,"$1,200",roomi nyc
+Weehawken,"$1,400",roomi nyc
+Bedford-Stuyvesant,"$1,000",roomi nyc
+Upper West Side,"$1,500",roomi nyc
+Greenpoint,"$1,450",roomi nyc
+Williamsburg,"$1,850",roomi nyc
+Far Rockaway,"$1,550",roomi nyc
+Upper West Side,"$1,275",roomi nyc
+Upper West Side,$640,roomi nyc
+Lower Manhattan,$800,roomi nyc
+Park Versailles,$750,roomi nyc
+East Harlem,"$1,800",roomi nyc
+Lower Manhattan,"$1,200",roomi nyc
+Williamsburg,"$1,250",roomi nyc
+East Flatbush,"$1,250",roomi nyc
+East Harlem,$850,roomi nyc
+Bedford-Stuyvesant,"$1,500",roomi nyc
+Williamsburg,"$2,400",roomi nyc
+Park Slope,"$1,675",roomi nyc
+Crown Heights,$950,roomi nyc
+Upper East Side,"$1,380",roomi nyc
+Williamsburg,$650,roomi nyc
+Williamsburg,"$1,500",roomi nyc
+Harlem,$960,roomi nyc
+Midtown,"$1,085",roomi nyc
+Ditmars Steinway,"$1,100",roomi nyc
+Yorkville,"$1,350",roomi nyc
+Hoboken,"$1,167",roomi nyc
+Upper Manhattan,$800,roomi nyc
+Crown Heights,"$1,050",roomi nyc
+Downtown Brooklyn,$900,roomi nyc
+Upper West Side,"$1,000",roomi nyc
+Long Island City,"$1,100",roomi nyc
+Midtown,"$1,200",roomi nyc
+Hell's Kitchen,"$1,270",roomi nyc
+Upper Manhattan,"$1,600",roomi nyc
+Williamsburg,"$1,585",roomi nyc
+Bensonhurst,"$1,350",roomi nyc
+Jamaica,"$1,400",roomi nyc
+Crown Heights,"$1,100",roomi nyc
+Downtown Brooklyn,"$1,700",roomi nyc
+Midtown,"$1,100",roomi nyc
+StuyTown,$750,roomi nyc
+Bay Ridge,"$1,700",roomi nyc
+Bushwick,$800,roomi nyc
+Chelsea,"$1,200",roomi nyc
+Greenpoint,"$1,950",roomi nyc
+Williamsburg,"$1,000",roomi nyc
+Upper Manhattan,$850,roomi nyc
+UWS,"$1,395",roomi nyc
+Williamsburg,"$1,255",roomi nyc
+Flushing,$950,roomi nyc
+Long Island City,$825,roomi nyc
+Flushing,"$1,460",roomi nyc
+Bushwick,$980,roomi nyc
+East Williamsburg,"$1,075",roomi nyc
+Kips Bay,"$1,750",roomi nyc
+UWS,"$1,225",roomi nyc
+Bushwick,$800,roomi nyc
+East Village,"$1,300",roomi nyc
+Williamsburg,"$1,600",roomi nyc
+Williamsburg,"$1,150",roomi nyc
+Sunset Park,"$1,665",roomi nyc
+Tribeca,"$1,700",roomi nyc
+East Williamsburg,"$1,266",roomi nyc
+East Bronx,$750,roomi nyc
+Upper West Side,"$1,333",roomi nyc
+StuyTown,"$1,100",roomi nyc
+Upper Manhattan,"$1,500",roomi nyc
+Hamilton Heights,"$1,750",roomi nyc
+Bushwick,"$1,158",roomi nyc
+Bushwick,$900,roomi nyc
+Greenpoint,"$1,200",roomi nyc
+Midtown,"$1,117",roomi nyc
+Bushwick,$875,roomi nyc
+East Bronx,"$1,500",roomi nyc
+West New York,"$2,100",roomi nyc
+Midtown,"$1,470",roomi nyc
+Kensington,"$1,550",roomi nyc
+Bedford-Stuyvesant,$900,roomi nyc
+Bushwick,"$1,100",roomi nyc
+Crown Heights,$950,roomi nyc
+Upper Manhattan,"$1,200",roomi nyc
+Upper West Side,"$1,000",roomi nyc
+Astoria,"$1,400",roomi nyc
+Guttenberg,"$1,630",roomi nyc
+Bedford-Stuyvesant,$975,roomi nyc
+Bedford-Stuyvesant,$950,roomi nyc
+Midtown East,"$1,690",roomi nyc
+Midtown,"$1,500",roomi nyc
+Harlem,"$1,250",roomi nyc
+Bronx,"$1,500",roomi nyc
+Hoboken,"$1,100",roomi nyc
+Flatbush - Ditmas Park,"$1,600",roomi nyc
+Bedford-Stuyvesant,"$1,950",roomi nyc
+Bedford-Stuyvesant,$975,roomi nyc
+Sunnyside,"$1,150",roomi nyc
+Midtown,$750,roomi nyc
+Bushwick,"$1,000",roomi nyc
+Long Island City,"$1,100",roomi nyc
+Azalea Park,$725,roomi orlando
+Windermere,$750,roomi orlando
+Southeast Orlando,$650,roomi orlando
+Orlando,$681,roomi orlando
+Longwood,$500,roomi orlando
+Northeast Orlando,"$1,100",roomi orlando
+Baldwin Park,$900,roomi orlando
+Oviedo,$600,roomi orlando
+Orlando,$719,roomi orlando
+Northeast Orlando,$710,roomi orlando
+Sanford,$975,roomi orlando
+Ocoee,$674,roomi orlando
+Casselberry,$500,roomi orlando
+Whitman,$500,roomi philadelphia
+Center City,$725,roomi philadelphia
+Washington Square West,$995,roomi philadelphia
+South Philadelphia,$875,roomi philadelphia
+Manayunk,"$1,000",roomi philadelphia
+Center City,$525,roomi philadelphia
+South Philadelphia,"$1,000",roomi philadelphia
+North Philadelphia,$675,roomi philadelphia
+West Philadelphia,$950,roomi philadelphia
+Manayunk,$712,roomi philadelphia
+South Philadelphia,$500,roomi philadelphia
+Center City,$650,roomi philadelphia
+Conshohocken,"$1,345",roomi philadelphia
+Northwest Philadelphia,$600,roomi philadelphia
+Society Hill,$400,roomi philadelphia
+Plymouth Meeting,"$1,075",roomi philadelphia
+Five Oaks,$600,roomi portland
+Southeast Portland,$900,roomi portland
+Northwest Heights,$750,roomi portland
+Southwest Portland,"$1,100",roomi portland
+Greenway,$600,roomi portland
+Arbor Lodge,$785,roomi portland
+Cooper Mountain - Aloha North,$450,roomi portland
+Downtown,$733,roomi san diego
+Spring Valley,"$1,350",roomi san diego
+Downtown,$750,roomi san diego
+San Luis Rey,"$1,600",roomi san diego
+Birdland,$825,roomi san diego
+Eastlake Greens,$775,roomi san diego
+Nestor,$750,roomi san diego
+Mira Mesa,$800,roomi san diego
+Lower Manhattan,$795,roomi san diego
+Pacific Beach,$820,roomi san diego
+Mid-City,"$1,200",roomi san diego
+University City,"$1,050",roomi san diego
+Skyline,$682,roomi san diego
+North Park,"$1,200",roomi san diego
+University City,$700,roomi san diego
+La Mesa,"$1,025",roomi san diego
+Concord,"$1,125",roomi san francisco
+Communications Hill,"$1,200",roomi san francisco
+Inner Sunset,"$1,500",roomi san francisco
+Southside,"$1,200",roomi san francisco
+Crockett,"$1,265",roomi san francisco
+Bay Point,"$1,400",roomi san francisco
+Rancho Santa Teresa,$600,roomi san francisco
+Marina Faire,$900,roomi san francisco
+Presidio,"$1,100",roomi san francisco
+South of Market,"$1,525",roomi san francisco
+North San Jose,"$1,675",roomi san francisco
+Marina District,"$1,395",roomi san francisco
+Lakeshore,"$1,900",roomi san francisco
+Central San Jose,"$1,400",roomi san francisco
+Union City,$950,roomi san francisco
+Elmwood,"$1,258",roomi san francisco
+Lone Mountain,"$1,525",roomi san francisco
+Midtown,"$1,226",roomi san francisco
+Sunset District,"$1,600",roomi san francisco
+North Hayward,"$1,485",roomi san francisco
+Sunnyvale,"$1,554",roomi san francisco
+Antioch,"$1,350",roomi san francisco
+Downtown Oakland,"$1,490",roomi san francisco
+Mountain View,$750,roomi san francisco
+Mill Valley,"$1,700",roomi san francisco
+Edenvale,"$1,550",roomi san francisco
+Russian Hill,"$1,750",roomi san francisco
+South Beach,$675,roomi san francisco
+Pacheco,$750,roomi san francisco
+Willow Glen,"$2,150",roomi san francisco
+Polk Gulch,"$1,500",roomi san francisco
+South of Market,$825,roomi san francisco
+Central San Jose,"$1,300",roomi san francisco
+Fairway Prk,"$2,000",roomi san francisco
+Russian Hill,"$2,400",roomi san francisco
+South San Jose,$975,roomi san francisco
+Mountain View,"$1,350",roomi san francisco
+South Berkeley,"$2,000",roomi san francisco
+Lakeshore,"$1,050",roomi san francisco
+Bay Point,"$1,450",roomi san francisco
+Des Moines,$600,roomi seattle
+Union Hill-Novelty Hill,$950,roomi seattle
+Northeast Seattle,"$1,000",roomi seattle
+Lake City,"$1,000",roomi seattle
+Paine Field-Lake Stickney,$800,roomi seattle
+Des Moines,$650,roomi seattle
+Northeast Seattle,$630,roomi seattle
+Federal Way,$940,roomi seattle
+Picnic Point-North Lynnwood,$575,roomi seattle
+Sammamish,"$1,500",roomi seattle
