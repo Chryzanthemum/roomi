@@ -1,13 +1,13 @@
 # roomi
 A data scrape and exploratory data analysis of Roomi's listings, with follow up questions about their data.
 
-Data:
+*Data*:
 
 I scraped the Roomi website for the listings in each city around July 12th, 2018. I went to the 'Search Listings' page and iterated over each region and every page of listings. I took the city, neighborhood, and price (leaving the names, faces, and ages of the listers and exact locations of the listings because it felt weird to have those. With those I could have done a deeper dive into demographics of the people subletting their apartments and a more precise mapping of listing prices to neighborhood demographics.) of each listing and constructed this dataset. I then removed London, Toronto, and Vancouver from the dataset because I'm using US census numbers.
 
 The dataset can be found here: 
 
-EDA:
+*EDA*:
 
 ![Imgur](https://i.imgur.com/G4SKEma.png)
 
@@ -44,12 +44,29 @@ Mean price of listing vs median income - humorously enough, these look like they
 
 ![Imgur](https://i.imgur.com/l6K2JZS.jpg)
 
-Number of listings vs percentage of population between ages 20-29, population density, and number of renters respectively - as you might expect, number of renters predicts number of listings better than the others, but there are interesting caveats. Some of the densest areas 
+Number of listings vs percentage of population between ages 20-29, population density, and number of renters respectively - as you might expect, number of renters appears to predict number of listings better than the others, but there are interesting caveats, especially in Manhattan and parts of Brooklyn. 
+
+![Imgur](https://i.imgur.com/55Q9R3v.png)
+
+![Imgur](https://i.imgur.com/NRe5Zpp.png)
 
 ![Imgur](https://i.imgur.com/Up0ysmu.png)
 
+One last thing to care about - these are the before/after .describe() tables for the Roomi Neighborhoods once I removed the neighborhoods that didn't match up with a Zillow GeoJSON. The number of neighborhoods was cut by about a third and the average number of listings per neighborhood has decreased slightly in the mean and heavily in the upper median quartiles. 
 
-Next Steps:
+|       | Before Removing Neighborhoods |             | After Removing Neighborhoods |             |
+|-------|-------------------------------|-------------|------------------------------|-------------|
+|       | count                         | mean        | count                        | mean        |
+| count | 96                            | 96          | 68                           | 68          |
+| mean  | 7.739583                      | 1286.267577 | 7.485294                     | 1290.964911 |
+| std   | 13.620607                     | 273.454186  | 12.228536                    | 248.350564  |
+| min   | 1                             | 700         | 1                            | 700         |
+| 25%   | 1                             | 1175        | 1                            | 1180        |
+| 50%   | 2.5                           | 1278.318182 | 2                            | 1283        |
+| 75%   | 7                             | 1422.125    | 6.25                         | 1422.125    |
+| max   | 82                            | 2280        | 52                           | 2280        |
+
+*Next Steps*:
 
 I've created a list of questions that could be investigated using Roomi's data and the teams the answers would be relevant to. I think these are relatively unique ways in which Roomi could use data to differentiate itself from competitors, create additional value for its users, and better progress as a company.
 
